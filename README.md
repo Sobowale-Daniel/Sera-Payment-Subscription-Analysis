@@ -47,6 +47,7 @@ https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/
 https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%2011.png)
 
 - Count for successfull payments.
+
 ![successfull payments](
 https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%2012.png)
 ## Dashboard Insights
