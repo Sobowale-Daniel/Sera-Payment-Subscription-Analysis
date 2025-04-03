@@ -46,6 +46,18 @@ https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/
 ![Current Month subscriber change in %](
 https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%2011.png)
 
+- Count for successfull payments.
+![successfull payments](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%2012.png)
+## Dashboard Insights
+![Dashboard Insights](https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/sera%20page%201.png)
+![Dashboard Insights 2](https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%202.png)
+![Dashboard Insights 3](https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%203.png)
+![Dashboard Insights 4](https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%204.png)
+
+
+
+
 
   
 
