@@ -23,6 +23,21 @@ This repository details the analysis and visualization of payment subscription f
 The data was first transformed in Power Query.
 ![Data Model](
 https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%205.png)
+## Dax
+One of my objectives was to develope key performance indicators (KPIs) for revenue and subscriber changes and to do this i had to use DAX.
+- Firstly to get the Revenue change% for the present month i had to first calculate the previous month revenue.
+![Previous Month Revenue](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%207.png)
+- Secondly i calculated the current month revenue.
+![Current Month Revenue](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%206.png)
+- Then finally to get the revenue change in %.
+![Current Month Revenue change in %](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%208.png)
+
+
+
+
 
 
 
