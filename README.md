@@ -15,9 +15,15 @@ This repository details the analysis and visualization of payment subscription f
 - Data normalization
 - Data transformation with Power Query
 - Data modelling
+- DAX
 - Bookmarks
 - Report Automation
 - Data Visualization
+## Data Model
+The data was first transformed in Power Query.
+![Data Model](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%205.png)
+
 
 
 
