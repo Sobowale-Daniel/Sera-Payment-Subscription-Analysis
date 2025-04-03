@@ -34,6 +34,19 @@ https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/
 - Then finally to get the revenue change in %.
 ![Current Month Revenue change in %](
 https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%208.png)
+To get the current month subscriber change in %
+- Just as i got the revenue change% i used the same approach to get my subscriber change% for the current month which was to first calculate the previous month subscribers.
+![Previous Month Subscriber](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%2010.png)
+- Then I calculated the current month subscribers.
+![CurrentMonth Subscriber](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%209.png)
+- Then finally to get the revenue change in %.
+![Current Month subscriber change in %](
+https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/blob/main/Images/image%2011.png)
+
+
+  
 
 
 
