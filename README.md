@@ -86,6 +86,9 @@ Geographic & Channel Diversification
 - Explore targeting new markets or regions where Q1/Q2 seasonality is less impactful.
 - Increase visibility through alternative payment channels or localized partnerships that may perform better in early quarters.
 
+## Download
+<a href = "https://github.com/Sobowale-Daniel/Sera-Payment-Subscription-Analysis/raw/refs/heads/main/Images/sera.pbix"> Download The Power BI File </a>
+
 
 
 
